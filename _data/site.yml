@@ -1,6 +1,6 @@
-title: Your Blog Name
-description: I am writing about my experiences as a naval navel-gazer.
+title: Rivers blog
+description: I am writing about my experiences in JS and digital creative.
 author:
-  name: Your Name Here,
-  email: youremailaddress@example.com,
-  url: https://example.com/about-me/
+  name: River,
+  email: riverfeya@gmail.com,
+  url: https://github.com/riverfeya/base-blog/edit/master/_data/site.yml
